@@ -36,5 +36,6 @@ Contributors names and contact info
 * email:(Brandon.spadafora01@gmail.com )
 
 ## Acknowledgments
-
+This is where the original code came from. I make no claim to it. I only made this to help me 
+learn and get more comfortable with ML
 * https://thecleverprogrammer.com/2020/05/26/predict-customer-churn-with-python-and-machine-learning/
